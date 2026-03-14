@@ -1,0 +1,15 @@
+name: OWASP
+description: Open Web Application Security Project - A nonprofit foundation that works
+  to improve the security of software through community-led open source projects,
+  hundreds of chapters worldwide, and educational resources. It is widely adopted
+  across industries to safeguard digital assets and reduce security risks.
+url: https://owasp.org
+tags:
+- Security
+- Web Security
+- Application Security
+- Open Source
+created: '2025'
+modified: '2025'
+apis: []
+common: []
