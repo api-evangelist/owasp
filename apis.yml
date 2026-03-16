@@ -1,15 +1,48 @@
+aid: owasp
 name: OWASP
-description: Open Web Application Security Project - A nonprofit foundation that works
-  to improve the security of software through community-led open source projects,
-  hundreds of chapters worldwide, and educational resources. It is widely adopted
-  across industries to safeguard digital assets and reduce security risks.
-url: https://owasp.org
+description: >-
+  Open Web Application Security Project - A nonprofit foundation that works
+  to improve the security of software through community-led open source
+  projects, hundreds of chapters worldwide, and educational resources.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-- Security
-- Web Security
-- Application Security
-- Open Source
-created: '2025'
-modified: '2025'
-apis: []
-common: []
+  - Security
+  - Web Security
+  - Application Security
+  - Open Source
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/owasp/refs/heads/main/apis.yml
+created: '2026-03-16'
+modified: '2026-03-16'
+specificationVersion: '0.19'
+apis:
+  - aid: owasp:owasp
+    name: OWASP
+    description: >-
+      Open Web Application Security Project providing resources, tools,
+      and standards for web application security.
+    humanURL: https://owasp.org/
+    tags:
+      - Security
+      - Web Security
+      - Application Security
+    properties:
+      - type: Documentation
+        url: https://owasp.org/
+      - type: Getting Started
+        url: https://owasp.org/getting-started/
+common:
+  - type: Website
+    url: https://owasp.org/
+  - type: Documentation
+    url: https://owasp.org/projects/
+  - type: Community
+    url: https://owasp.org/slack/invite
+  - type: GitHub Organization
+    url: https://github.com/OWASP
+  - type: Support
+    url: https://owasp.org/contact/
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
