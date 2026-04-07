@@ -7,10 +7,10 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Security
-  - Web Security
   - Application Security
   - Open Source
+  - Security
+  - Web Security
 url: >-
   https://raw.githubusercontent.com/api-evangelist/owasp/refs/heads/main/apis.yml
 created: '2026-03-16'
@@ -24,9 +24,9 @@ apis:
       and standards for web application security.
     humanURL: https://owasp.org/
     tags:
+      - Application Security
       - Security
       - Web Security
-      - Application Security
     properties:
       - type: Documentation
         url: https://owasp.org/
