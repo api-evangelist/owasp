@@ -1,39 +1,41 @@
 # OWASP (owasp)
-Open Web Application Security Project - A nonprofit foundation that works to improve the security of software through community-led open source projects, hundreds of chapters worldwide, and educational resources.
+
+The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software through community-led open source projects, hundreds of chapters worldwide, and educational resources. OWASP does not provide a centralized public API, but maintains many open source projects, standards (such as the OWASP Top 10 and ASVS), and tools (such as ZAP) that include APIs.
 
 **URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/owasp/refs/heads/main/apis.yml)
 
 ## Scope
 
-- **Type:** Index 
-- **Position:** Consuming 
-- **Access:** 3rd-Party 
+- **Type:** Index
+- **Position:** Consuming
+- **Access:** 3rd-Party
 
-## Tags:
+## Tags
 
- - Security, Web Security, Application Security, Open Source
+- Security, Web Security, Application Security, Open Source, Standards
 
 ## Timestamps
 
-- **Created:** 2026-03-16 
-- **Modified:** 2026-03-16 
+- **Created:** 2026-03-16
+- **Modified:** 2026-04-28
 
 ## APIs
 
 ### OWASP
-Open Web Application Security Project providing resources, tools, and standards for web application security.
+Open Worldwide Application Security Project providing resources, tools, projects, and standards for application and web security.
 
 **Human URL:** [https://owasp.org/](https://owasp.org/)
 
+#### Tags
 
-#### Tags:
-
- - Security, Web Security, Application Security
+- Application Security, Security, Web Security, Standards
 
 #### Properties
 
 - [Documentation](https://owasp.org/)
 - [Getting Started](https://owasp.org/getting-started/)
+- [Projects](https://owasp.org/projects/)
+- [GitHub Organization](https://github.com/OWASP)
 
 ## Common Properties
 
@@ -42,6 +44,7 @@ Open Web Application Security Project providing resources, tools, and standards 
 - [Community](https://owasp.org/slack/invite)
 - [GitHub Organization](https://github.com/OWASP)
 - [Support](https://owasp.org/contact/)
+- [Foundation](https://owasp.org/www-policy/)
 
 ## Maintainers
 
