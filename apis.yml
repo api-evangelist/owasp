@@ -35,11 +35,11 @@ apis:
     properties:
       - type: Documentation
         url: https://owasp.org/
-      - type: Getting Started
+      - type: GettingStarted
         url: https://owasp.org/getting-started/
       - type: Projects
         url: https://owasp.org/projects/
-      - type: GitHub Organization
+      - type: GitHubOrganization
         url: https://github.com/OWASP
 common:
   - type: Website
@@ -48,7 +48,7 @@ common:
     url: https://owasp.org/projects/
   - type: Community
     url: https://owasp.org/slack/invite
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/OWASP
   - type: Support
     url: https://owasp.org/contact/
