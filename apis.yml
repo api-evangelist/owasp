@@ -42,6 +42,8 @@ apis:
       - type: GitHubOrganization
         url: https://github.com/OWASP
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/owasp
   - type: Website
     url: https://owasp.org/
   - type: Documentation
