@@ -8,7 +8,7 @@ description: >-
   API, but maintains many open source projects, standards (such as the
   OWASP Top 10 and ASVS), and tools (such as ZAP) that include APIs.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Application Security
   - Open Source
