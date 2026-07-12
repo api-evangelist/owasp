@@ -42,6 +42,12 @@ apis:
       - type: GitHubOrganization
         url: https://github.com/OWASP
 common:
+  - type: VulnerabilityDisclosure
+    url: security/owasp-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/owasp-domain-security.yml
+  - url: https://owasp.org/feed.xml
+    type: Blog
   - type: LinkedIn
     url: https://www.linkedin.com/company/owasp
   - type: Website
