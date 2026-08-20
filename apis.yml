@@ -23,6 +23,12 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/owasp.png
 tags:
   - Application Security
+  - Open-Source
+  - Security
+  - Web Security
+  - Standards
+tags_raw:
+  - Application Security
   - Open Source
   - Security
   - Web Security
