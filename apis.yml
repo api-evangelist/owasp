@@ -8,6 +8,17 @@ description: >-
   API, but maintains many open source projects, standards (such as the
   OWASP Top 10 and ASVS), and tools (such as ZAP) that include APIs.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: freemium
   onboarding: unknown
