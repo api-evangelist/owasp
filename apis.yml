@@ -98,6 +98,8 @@ common:
     url: https://owasp.org/contact/
   - type: Foundation
     url: https://owasp.org/www-policy/
+  - type: SpectralRules
+    url: https://github.com/OWASP/apicheck/blob/2a4b1d884867ff9674d84d6e2108bf9e046835ee/tools-edge/oas-checker/spectral.yml
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
